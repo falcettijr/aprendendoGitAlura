@@ -1,6 +1,6 @@
-# Nome do meu projeto
+# Aprendendo GIT Alura
 
-Rápida descrição do objetivo de fazer esse projeto
+Esse é um repositório para treinar meus conhecimentos em GIT e GITHUB.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
