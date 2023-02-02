@@ -4,7 +4,7 @@ Esse é um repositório para treinar meus conhecimentos em GIT e GITHUB.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
+| :sparkles: Nome        | **Aprendendo GIT Alura**
 | :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
