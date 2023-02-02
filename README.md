@@ -14,4 +14,8 @@ Esse é um repositório para treinar meus conhecimentos em GIT e GITHUB.
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Sistema de cadastro de jogos
+
+```
+node app.js
+```
