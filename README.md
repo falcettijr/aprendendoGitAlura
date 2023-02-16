@@ -10,7 +10,7 @@ Esse é um repositório para treinar meus conhecimentos em GIT e GITHUB.
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?#vitrinedev)
+![](https://via.placeholder.com/1200x500.png?)
 
 ## Detalhes do projeto
 
